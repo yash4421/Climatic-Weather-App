@@ -1,0 +1,2 @@
+# Climatic-Weather-App
+In this App we can get Live location on both ios and android using Geolocator package.I have used OpenWeathermap Api and Dart http package to get live weather data from  internet.The key concepts learned while making the app is how asynchronous programming works,how to parse the JSON formatted data using Dart convert package,how to use Textfield widget to get user data and how to pass the data Forward and Backward using Navigator concept.
